@@ -2,74 +2,76 @@
 
 # Awais Afzal
 
-**Full-stack developer.** I ship practical web apps for shops and businesses — ledgers, inventory, and storefronts people actually run.
+**Full-stack developer** building software shops actually run — ledgers, inventory, and storefronts.
 
-[![GitHub](https://img.shields.io/badge/GitHub-awaisafzal229-181717?style=for-the-badge&logo=github)](https://github.com/awaisafzal229)
-[![Open to work](https://img.shields.io/badge/Open%20to%20work-Yes-22c55e?style=for-the-badge)](https://github.com/awaisafzal229)
-[![Pakistan](https://img.shields.io/badge/Based%20in-Pakistan-0ea5e9?style=for-the-badge)](https://github.com/awaisafzal229)
-
-[Projects](#featured-work) · [Stack](#stack) · [Contact](#contact)
+[![Open to work](https://img.shields.io/badge/Open%20to%20work-Yes-22c55e?style=flat-square)](mailto:awaisss220904@gmail.com)
+[![Pakistan](https://img.shields.io/badge/Based%20in-Pakistan-0ea5e9?style=flat-square)](https://github.com/awaisafzal229)
+[![Stack](https://img.shields.io/badge/Stack-Next.js%20%7C%20Node%20%7C%20MongoDB-111827?style=flat-square)](https://github.com/awaisafzal229)
 
 </div>
 
----
+I ship full-stack products with a bias for real operations: customer accounts, stock, rates, and storefronts. Most of my work sits between **local businesses** and **modern web apps**.
 
-### Right now
-
-Building **Digital Khata** — a shop ledger for customer accounts, udhaar, rates, and daily backups. Next.js, Node, Express, MongoDB.
-
-I care about products that survive real shop floors: fast forms, offline-friendly flows, and data you can trust.
+**Now:** building [Digital Khata](https://github.com/awaisafzal229) — a shop ledger for udhaar, customer records, shop rates, and daily backups. Next.js, Node, Express, MongoDB.
 
 ---
 
 ## Featured work
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**DC Clothes**](https://github.com/awaisafzal229/DC-Clothes) · [Live](https://dc-clothes.vercel.app) | Luxury Pakistani fashion storefront — Pret & Unstitched collections, WhatsApp ordering, cash on delivery | Next.js, React, Tailwind |
-| [**Inventory Management System**](https://github.com/awaisafzal229/InventoryManagementSystem) | Desktop inventory app for products, stock, and day-to-day shop operations | C# |
-| [**SMIT Hackathon**](https://github.com/awaisafzal229/SMIT-Hackathon-main) · [Live](https://smit-hackathone-first.vercel.app) | Competition build with motion, charts, and Firebase | Next.js, Firebase, Three.js |
-| [**Car Showcase**](https://github.com/awaisafzal229/car__showCase) | Vehicle catalog UI with a clean Next.js + TypeScript layout | Next.js, TypeScript, Tailwind |
-| [**Chiongster**](https://github.com/awaisafzal229/chiongster-android) | Cross-platform mobile app | React Native, Expo |
-| [**Blogging Website**](https://github.com/awaisafzal229/blogging_website) | Server-rendered blogging platform | PHP |
+Live demos: [DC Clothes](https://dc-clothes.vercel.app) · [SMIT Hackathon](https://smit-hackathone-first.vercel.app)
+
+<div align="center">
+  <a href="https://github.com/awaisafzal229/DC-Clothes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=awaisafzal229&repo=DC-Clothes&theme=transparent&hide_border=true" alt="DC Clothes" />
+  </a>
+  <a href="https://github.com/awaisafzal229/InventoryManagementSystem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=awaisafzal229&repo=InventoryManagementSystem&theme=transparent&hide_border=true" alt="Inventory Management System" />
+  </a>
+  <a href="https://github.com/awaisafzal229/SMIT-Hackathon-main">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=awaisafzal229&repo=SMIT-Hackathon-main&theme=transparent&hide_border=true" alt="SMIT Hackathon" />
+  </a>
+  <a href="https://github.com/awaisafzal229/car__showCase">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=awaisafzal229&repo=car__showCase&theme=transparent&hide_border=true" alt="Car Showcase" />
+  </a>
+  <a href="https://github.com/awaisafzal229/chiongster-android">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=awaisafzal229&repo=chiongster-android&theme=transparent&hide_border=true" alt="Chiongster" />
+  </a>
+  <a href="https://github.com/awaisafzal229/blogging_website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=awaisafzal229&repo=blogging_website&theme=transparent&hide_border=true" alt="Blogging Website" />
+  </a>
+</div>
 
 ---
 
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,firebase,html,css,cs,python,php,git,github,vercel" alt="JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, Tailwind, Firebase, HTML, CSS, C#, Python, PHP, Git, GitHub, Vercel" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,firebase,cs,python,php,html,css,git,github,vercel" alt="JavaScript TypeScript React Next.js Node Express MongoDB Tailwind Firebase C# Python PHP HTML CSS Git GitHub Vercel" />
 </p>
 
-**Frontend** — React, Next.js, TypeScript, Tailwind CSS  
-**Backend** — Node.js, Express, MongoDB, Firebase, PHP  
-**Mobile** — React Native, Expo  
-**Also** — C#, Python, Three.js
+| Area | Tools |
+| --- | --- |
+| Frontend | React, Next.js, TypeScript, Tailwind CSS |
+| Backend | Node.js, Express, MongoDB, Firebase, PHP |
+| Mobile | React Native, Expo |
+| Also | C#, Python, Three.js |
 
 ---
 
 ## GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=awaisafzal229&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="Awais Afzal GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaisafzal229&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top languages" />
+  <img height="168" src="https://github-readme-stats.vercel.app/api?username=awaisafzal229&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaisafzal229&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=awaisafzal229&theme=transparent&hide_border=true" alt="GitHub streak" />
 </div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awaisafzal229&theme=transparent&hide_border=true&card_width=480" alt="GitHub streak" />
-</p>
 
 ---
 
 ## Contact
 
-I'm open to freelance work, internships, and full-time roles around **full-stack / Next.js / Node**.
+Open to **freelance**, internships, and full-time **full-stack / Next.js / Node** roles.
 
-- GitHub: [awaisafzal229](https://github.com/awaisafzal229)
-- Email: [awaisss220904@gmail.com](mailto:awaisss220904@gmail.com)
-
-<div align="center">
-
-Thanks for stopping by — if a project looks useful, star it or open an issue.
-
-</div>
+- GitHub → [awaisafzal229](https://github.com/awaisafzal229)
+- Email → [awaisss220904@gmail.com](mailto:awaisss220904@gmail.com)
