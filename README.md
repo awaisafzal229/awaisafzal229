@@ -1,6 +1,6 @@
 <div align="center">
 
-# Awais Afzal
+# M. Awais Afzal
 
 **Full-stack developer** building software shops actually run — ledgers, inventory, and storefronts.
 
