@@ -12,34 +12,20 @@
 
 I ship full-stack products with a bias for real operations: customer accounts, stock, rates, and storefronts. Most of my work sits between **local businesses** and **modern web apps**.
 
-**Now:** building [Digital Khata](https://github.com/awaisafzal229) — a shop ledger for udhaar, customer records, shop rates, and daily backups. Next.js, Node, Express, MongoDB.
+**Now:** building **Digital Khata** — a shop ledger for udhaar, customer records, shop rates, and daily backups. Next.js, Node, Express, MongoDB.
 
 ---
 
 ## Featured work
 
-Live demos: [DC Clothes](https://dc-clothes.vercel.app) · [SMIT Hackathon](https://smit-hackathone-first.vercel.app)
-
-<div align="center">
-  <a href="https://github.com/awaisafzal229/DC-Clothes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=awaisafzal229&repo=DC-Clothes&theme=transparent&hide_border=true" alt="DC Clothes" />
-  </a>
-  <a href="https://github.com/awaisafzal229/InventoryManagementSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=awaisafzal229&repo=InventoryManagementSystem&theme=transparent&hide_border=true" alt="Inventory Management System" />
-  </a>
-  <a href="https://github.com/awaisafzal229/SMIT-Hackathon-main">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=awaisafzal229&repo=SMIT-Hackathon-main&theme=transparent&hide_border=true" alt="SMIT Hackathon" />
-  </a>
-  <a href="https://github.com/awaisafzal229/car__showCase">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=awaisafzal229&repo=car__showCase&theme=transparent&hide_border=true" alt="Car Showcase" />
-  </a>
-  <a href="https://github.com/awaisafzal229/chiongster-android">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=awaisafzal229&repo=chiongster-android&theme=transparent&hide_border=true" alt="Chiongster" />
-  </a>
-  <a href="https://github.com/awaisafzal229/blogging_website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=awaisafzal229&repo=blogging_website&theme=transparent&hide_border=true" alt="Blogging Website" />
-  </a>
-</div>
+| Project | What it is | Live |
+| --- | --- | --- |
+| [**DC Clothes**](https://github.com/awaisafzal229/DC-Clothes) | Luxury Pakistani fashion storefront — Pret & Unstitched collections, WhatsApp ordering, cash on delivery | [dc-clothes.vercel.app](https://dc-clothes.vercel.app) |
+| [**Inventory Management**](https://github.com/awaisafzal229/InventoryManagementSystem) | Desktop inventory app for products, stock, and day-to-day shop operations | — |
+| [**SMIT Hackathon**](https://github.com/awaisafzal229/SMIT-Hackathon-main) | Competition build with motion, charts, and Firebase | [smit-hackathone-first.vercel.app](https://smit-hackathone-first.vercel.app) |
+| [**Car Showcase**](https://github.com/awaisafzal229/car__showCase) | Vehicle catalog UI with Next.js, TypeScript, and Tailwind | — |
+| [**Chiongster**](https://github.com/awaisafzal229/chiongster-android) | Cross-platform mobile app with React Native and Expo | — |
+| [**Blogging Website**](https://github.com/awaisafzal229/blogging_website) | Server-rendered blogging platform in PHP | — |
 
 ---
 
@@ -55,17 +41,6 @@ Live demos: [DC Clothes](https://dc-clothes.vercel.app) · [SMIT Hackathon](http
 | Backend | Node.js, Express, MongoDB, Firebase, PHP |
 | Mobile | React Native, Expo |
 | Also | C#, Python, Three.js |
-
----
-
-## GitHub
-
-<div align="center">
-  <img height="168" src="https://github-readme-stats.vercel.app/api?username=awaisafzal229&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaisafzal229&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=awaisafzal229&theme=transparent&hide_border=true" alt="GitHub streak" />
-</div>
 
 ---
 
