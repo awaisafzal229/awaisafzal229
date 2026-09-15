@@ -49,4 +49,4 @@ I ship full-stack products with a bias for real operations: customer accounts, s
 Open to **freelance**, internships, and full-time **full-stack / Next.js / Node** roles.
 
 - GitHub → [awaisafzal229](https://github.com/awaisafzal229)
-- Email → [awaisss220904@gmail.com](mailto:awaisss220904@gmail.com)
+- Email → [awaisss220904@gmail.com](mailto:awaisafzal.az@gmail.com)
